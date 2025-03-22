@@ -1,4 +1,4 @@
-# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> I'm Rutwik Saraf
+# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> I'm Rutwik Saraf
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06)](https://leetcode.com/rutwiksaraf3/)
 <br>
 Full Stack Developer & AI Enthusiast | Software Engineer Apprentice at American Express | Passionate About Scalable Systems & UX Optimization <br>
