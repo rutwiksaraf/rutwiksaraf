@@ -2,7 +2,7 @@
 
 <br>
 Full Stack Developer & AI Enthusiast | Software Engineer Apprentice at American Express | Passionate About Scalable Systems & UX Optimization <br>
-<br>[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06)](https://leetcode.com/rutwiksaraf3/) <br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06)](https://leetcode.com/rutwiksaraf3/) 
 
 
 ---------------------------------------------------------------------------------------------
