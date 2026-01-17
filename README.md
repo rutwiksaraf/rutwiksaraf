@@ -9,7 +9,7 @@ Full Stack Developer & AI Enthusiast | Software Engineer Apprentice at American 
 
 Driven by a passion for technology and problem-solving, I am a results-oriented Software Engineer with a strong foundation in full-stack development, scalable systems, and AI-driven applications. My journey includes working as a Software Engineer Apprentice at American Express, where I am building an Excel parsing platform that efficiently processes large datasets and integrates with AG Grid to enhance user interaction and performance. Previously, during my internship at Voloridge Investment Management, I developed trading widgets that optimized data retrieval efficiency by 30% and enhanced trader productivity through an intuitive React and TypeScript-based UI. Additionally, I manage the Florida Stakeholder Engagement Program website at the University of Florida’s ABE Department, developing backend APIs, participant registration systems, and database integrations. As I pursue my Master’s in Computer Science at UF, I am focused on applying my expertise to build high-impact, cutting-edge software solutions that drive efficiency, innovation, and seamless user experiences. I code solutions! 
 
-* 🌍  I'm based in Gainesville, Florida
+* 🌍  I'm based in San Jose, California
 * ✉️  You can contact me at [linkedin.com/in/rutwiksaraf3/](mailto:linkedin.com/in/rutwiksaraf3/)
 
 ---------------------------------------------------------------------------------------------
